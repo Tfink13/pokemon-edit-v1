@@ -4846,7 +4846,7 @@ Mon204_EvosMoves:
 Mon205_EvosMoves:
 ;MUNCHLAX
 ;Evolutions
-	db EV_LEVEL,15,SNORLAX
+	db EV_LEVEL,30,SNORLAX
 	db 0
 ;Learnset
 	db 1,TACKLE
